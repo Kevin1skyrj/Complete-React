@@ -1,7 +1,6 @@
 import React from "react";
 
 const Main = () => {
-  
   return (
     <div>
       <form className="flex justify-center items-center mt-10 gap-2">
